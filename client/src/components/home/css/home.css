@@ -1,0 +1,51 @@
+:where(.css-dev-only-do-not-override-1kuana8).ant-picker-calendar.ant-picker-calendar-full .ant-picker-calendar-date-content {
+    position: static;
+    width: auto;
+    overflow-y: auto;
+    color: rgba(0, 0, 0, 0.88);
+    line-height: 1.5714285714285714;
+    text-align: start;
+}
+
+:where(.css-dev-only-do-not-override-1kuana8).ant-picker-calendar.ant-picker-calendar-full .ant-picker-calendar-date-content {
+    position: static;
+    width: auto;
+    height: 30px;
+    overflow-y: auto;
+    color: rgba(0, 0, 0, 0.88);
+    line-height: 1.5714285714285714;
+    text-align: start;
+}
+
+
+
+:where(.css-dev-only-do-not-override-1kuana8).ant-picker-calendar.ant-picker-calendar-full .ant-picker-calendar-date-value {
+    line-height: 24px;
+    transition: color 0.3s;
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+
+
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+:where(.css-dev-only-do-not-override-1kuana8).ant-picker-calendar.ant-picker-calendar-full .ant-picker-calendar-date-content {
+    position: static;
+    margin-top: 4px;
+
+    width: auto;
+    height: 2rem;
+    overflow-y: auto;
+    color: red;
+    /* background-color: red; */
+    font-weight: bolder;
+    border-radius: 3px;
+    line-height: 1.5714285714285714;
+    text-align: left;
+    /* justify-content: center; */
+}
